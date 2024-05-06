@@ -1,0 +1,24 @@
+.button {
+  background-color: green;
+}
+
+.button a {
+  color: yellow;
+}
+
+body {
+  background-color: pink;
+}
+
+a {
+  color: red;
+}
+
+.contenitore {
+  border: 1px solid green;
+}
+
+.contenitore a {
+  color: green;
+}
+/*# sourceMappingURL=style.css.map */
